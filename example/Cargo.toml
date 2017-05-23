@@ -34,7 +34,7 @@ panic = 'unwind'
 
 [dependencies]
 rand = "0.3"
-urweb = {path = "../", version ="0.1.0"}
+urweb = {path = "../", version = "0.1.0"}
 
 [build-dependencies]
 rusty-cheddar = "0.3.3"
