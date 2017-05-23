@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Aistis Raulinaitis <sheganinans@gmail.com>"]
 license = "MIT"
 description = "Rust bindings to Ur/Web header file."
+repository = "https://github.com/sheganinans/urweb-rs"
 
 [lib]
 path = "src/urweb.rs"
