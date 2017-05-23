@@ -1,0 +1,9 @@
+[package]
+name = "urweb"
+version = "0.1.0"
+authors = ["Aistis Raulinaitis <sheganinans@gmail.com>"]
+
+[lib]
+path = "src/urweb.rs"
+
+[dependencies]
