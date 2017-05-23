@@ -4,7 +4,6 @@ extern crate urweb;
 extern crate rand;
 
 use std::ffi::{CString};
-//mod urweb;
 use urweb::*;
 
 use rand::{thread_rng, Rng};
